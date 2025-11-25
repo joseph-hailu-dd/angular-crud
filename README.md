@@ -15,6 +15,10 @@
 
   `npm install` 
 
+- Run the mock server
+   
+   `json-server --watch db.json`
+
 - Run the application 
 
   `ng serve`
